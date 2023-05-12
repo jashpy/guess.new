@@ -1,1 +1,1 @@
-# guess.new
+stone,paper and scissor basic
